@@ -8,7 +8,7 @@
 
 ## Решение 1
 
-
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/1.1.png)
 
 ## Задание 2
 Установите поддержку LUKS.
@@ -18,7 +18,12 @@
 
 ## Решение 2
 
-
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/2.1.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/2.2.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/2.3.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/2.4.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/2.5.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/2.6.png)
 
 ## Задание 3 *
 Установите apparmor.
@@ -28,4 +33,5 @@
 
 ## Решение 3
 
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/3.1.png)
 
