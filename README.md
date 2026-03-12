@@ -33,6 +33,8 @@
 
 ## Решение 3
 
+Не получилось повторить эксперимент, так как ip не захотел изначально пинговаться по команде man.
+
 ![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/3.png)
 ![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/3.1.png)
 ![alt text](https://github.com/Sayward-k8/sdb-hw-13-02/blob/main/img/3.2.png)
